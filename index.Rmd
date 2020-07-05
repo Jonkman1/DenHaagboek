@@ -15,7 +15,7 @@ description: "Uitgave van Kennisplatform Integratie & Samenleving"
 
 
 ```{r, echo=FALSE}
-knitr::include_graphics("H:/DenHaag/Boek/img/Voorkant.png")
+knitr::include_graphics("img/Voorkant.png")
 
 ```
 
