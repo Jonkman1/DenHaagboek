@@ -19,7 +19,7 @@ knitr::include_graphics("img/Voorkant.png")
 
 ```
 
-Dit was een uitgave van het Kennisplatform Integratie & Samenleving.
+Dit is een uitgave van het Kennisplatform Integratie & Samenleving.
 
 https://www.kis.nl/
 
