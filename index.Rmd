@@ -1,5 +1,5 @@
 --- 
-title: "Leefomstandigheden inwoners met een Antilliaanse achter-grond in Den Haag"
+title: "Leefomstandigheden inwoners met een Antilliaanse achtergrond in Den Haag"
 author: "Esther Horrevorts,Hans Bellaart"
 date: "September 2018"
 site: bookdown::bookdown_site
@@ -14,12 +14,12 @@ description: "Uitgave van Kennisplatform Integratie & Samenleving"
 # Vooraf{-}
 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, out.width="50%"}
 knitr::include_graphics("img/Voorkant.png")
 
 ```
 
-Dit is een uitgave van het Kennisplatform Integratie & Samenleving.
+Dit was een uitgave van het Kennisplatform Integratie & Samenleving.
 
 https://www.kis.nl/
 
