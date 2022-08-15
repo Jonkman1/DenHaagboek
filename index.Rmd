@@ -11,8 +11,6 @@ description: "Uitgave van Kennisplatform Integratie & Samenleving"
 ---
 
 
-# Vooraf{-}
-
 
 ```{r, echo=FALSE, out.width="50%"}
 knitr::include_graphics("img/Voorkant.png")
