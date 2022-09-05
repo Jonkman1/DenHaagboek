@@ -19,7 +19,7 @@ knitr::include_graphics("img/Fig2.jpg")
 Van de andere drie grote steden (Amsterdam, Rotterdam en Utrecht) heeft Rotterdam ook relatief een grote populatie Antilliaans-Nederlandse inwoners. Van alle Rotterdamse inwoners, heeft 3,9% een Antilliaanse achtergrond. In Amsterdam heeft 1,5% een Antilliaanse achtergrond en in Utrecht slechts 0,8%.   
 
 ## Verdeling naar wijken in Den Haag   
-Wanneer we kijken naar wijkniveau, zijn daar ook grote verschillen in te zien. De wijk Binckhorst is de wijk met relatief het hoogste aantal Antilliaans-Nederlandse inwoners (12,1%). Dit is echter ook een kleine wijk, waardoor percentages snel hoog uitvallen. Kijken we naar absolute aantallen, dan hebben de wijken Stationsbuurt (8,4%), Laakkwartier (4,8%) en Moerwijk (4,8%) het hoogste aan-tal Antilliaans-Nederlandse inwoners [@Haag2017].    
+Wanneer we kijken naar wijkniveau, zijn daar ook grote verschillen in te zien. De wijk Binckhorst is de wijk met relatief het hoogste aantal Antilliaans-Nederlandse inwoners (12,1%). Dit is echter ook een kleine wijk, waardoor percentages snel hoog uitvallen. Kijken we naar absolute aantallen, dan hebben de wijken Stationsbuurt (8,4%), Laakkwartier (4,8%) en Moerwijk (4,8%) het hoogste aantal Antilliaans-Nederlandse inwoners [@Haag2017].    
 ```{r, echo=FALSE, fig.cap="Leeftijdsopbouw inwoners Den Haag"}
 knitr::include_graphics("img/Fig3.jpg")
 
