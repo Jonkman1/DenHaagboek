@@ -5,7 +5,7 @@ Onder alle inwoners van Den Haag heeft 45% een hoog, 31% een middelbaar en 24% e
 
 
 ```{r, echo=FALSE, fig.cap="Opleidingsniveau naar herkomst Den Haag, 2013"}
-knitr::include_graphics("H:/DenHaag/Boek/img/Fig4.jpg")
+knitr::include_graphics("img/Fig4.jpg")
 
 ```
 
@@ -14,14 +14,12 @@ Ook in Nederland heeft bijna de helft van de Antilliaanse-Nederlanders een midde
 
 
 ```{r, echo=FALSE, fig.cap="Opleidingsniveau naar herkomst Nederland, 2013"}
-knitr::include_graphics("H:/DenHaag/Boek/img/Fig5.jpg")
+knitr::include_graphics("img/Fig5.jpg")
 
 ```
 
 ## Voortijdig Schoolverlaten  
 Het schooljaar 2011-2012 telde in totaal 1.600 vroegtijdige schoolverlaters (VSV-ers) in Den Haag, wat neerkomt op een gemiddelde van 4,9%. Het grootste percentage schoolverlaters is onder jon-geren met een Antilliaanse achtergrond (9,2%). Rotterdam heeft in 2014 een iets hoger percentage VSV-ers (5,4%), en ook hier hebben de Antilliaans-Nederlandse scholieren het hoogste percentage VSV-ers (7,4%).    
-
-   
 
 
 ```{r, echo=FALSE}
@@ -81,10 +79,9 @@ myTable<- data.frame(
 
 ```
 
-   
-
+  
 ## Mogelijke verklaringen
-Leerlingen met een migratieachtergrond verlaten school vaker vroegtijdig dan leerlingen met een Nederlandse achtergrond. Dit geldt met name voor jongeren met een Antilliaanse achtergrond. Vaak zijn deze jongeren hun onderwijsloopbaan al gestart met een taalachterstand, doordat zij de Nederlandse taal onvoldoende beheersen (Meeng, 2008) en deze ook niet altijd thuis gesproken wordt (Holter, 2014). Deze achterstanden worden tijdens hun onderwijsloopbaan onvoldoende ingelopen, waardoor zij groter risico hebben op vroegtijdig schoolverlaten [@Meeng2008].   
+Leerlingen met een migratieachtergrond verlaten school vaker vroegtijdig dan leerlingen met een Nederlandse achtergrond. Dit geldt met name voor jongeren met een Antilliaanse achtergrond. Vaak zijn deze jongeren hun onderwijsloopbaan al gestart met een taalachterstand, doordat zij de Nederlandse taal onvoldoende beheersen [@Meeng2008] en deze ook niet altijd thuis gesproken wordt [@Holter2014]. Deze achterstanden worden tijdens hun onderwijsloopbaan onvoldoende ingelopen, waardoor zij groter risico hebben op vroegtijdig schoolverlaten [@Meeng2008].   
 
 Ook de samenstelling van het gezin vormt een risicofactor. Zo lopen kinderen uit eenoudergezin-nen meer risico op voortijdig schoolverlaten [@Traag2008]. De verklaring die hier-voor wordt gegeven is dat kinderen uit eenoudergezinnen minder sociale interactie hebben, aangezien maar een ouder beschikbaar is. Dit betekent dat deze kinderen minder van de hulpbronnen van hun ouders kunnen profiteren, wat de kans op schoolverlaten vergroot. En zoals ook blijkt uit hoofdstuk 2, zijn er relatief veel eenoudergezinnen onder Antilliaanse-Nederlanders.  
 

@@ -39,3 +39,8 @@ oververtegenwoordiging-1
 mogelijke-verklaringen-6
 conclusies
 literatuur
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+fig:unnamed-chunk-3
+tab:table-aligned
+tab:unnamed-chunk-3
